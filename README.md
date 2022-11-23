@@ -1,2 +1,2 @@
-# Ela omaverkkosivu
+# Omaverkkosivu
 ensimmäinen toimiva html verkkosivu
